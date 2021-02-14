@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
-    "cypress": "^6.4.0"
+    "cypress": "^6.4.0",
+    "cypress-react-router": "^1.0.1"
   }
 }
