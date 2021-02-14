@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "lib": ["es5", "dom"],
+    "target": "es5",
+    "types": ["cypress", "cypress-react-router"]
+  },
+  "include": ["**/*.ts"]
+}
